@@ -1,0 +1,7 @@
+.container {
+	border: 1px solid red;
+	padding: 10px;
+}
+.winner h2 {
+	text-align: center;
+}
